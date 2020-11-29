@@ -1,0 +1,13 @@
+C:\Users\aksh0\OneDrive\デスクトップ\KataBowling\KataBowling\bin\Debug\netcoreapp3.1\KataBowling.exe
+C:\Users\aksh0\OneDrive\デスクトップ\KataBowling\KataBowling\bin\Debug\netcoreapp3.1\KataBowling.deps.json
+C:\Users\aksh0\OneDrive\デスクトップ\KataBowling\KataBowling\bin\Debug\netcoreapp3.1\KataBowling.runtimeconfig.json
+C:\Users\aksh0\OneDrive\デスクトップ\KataBowling\KataBowling\bin\Debug\netcoreapp3.1\KataBowling.runtimeconfig.dev.json
+C:\Users\aksh0\OneDrive\デスクトップ\KataBowling\KataBowling\bin\Debug\netcoreapp3.1\KataBowling.dll
+C:\Users\aksh0\OneDrive\デスクトップ\KataBowling\KataBowling\bin\Debug\netcoreapp3.1\KataBowling.pdb
+C:\Users\aksh0\OneDrive\デスクトップ\KataBowling\KataBowling\obj\Debug\netcoreapp3.1\KataBowling.csprojAssemblyReference.cache
+C:\Users\aksh0\OneDrive\デスクトップ\KataBowling\KataBowling\obj\Debug\netcoreapp3.1\KataBowling.AssemblyInfoInputs.cache
+C:\Users\aksh0\OneDrive\デスクトップ\KataBowling\KataBowling\obj\Debug\netcoreapp3.1\KataBowling.AssemblyInfo.cs
+C:\Users\aksh0\OneDrive\デスクトップ\KataBowling\KataBowling\obj\Debug\netcoreapp3.1\KataBowling.csproj.CoreCompileInputs.cache
+C:\Users\aksh0\OneDrive\デスクトップ\KataBowling\KataBowling\obj\Debug\netcoreapp3.1\KataBowling.dll
+C:\Users\aksh0\OneDrive\デスクトップ\KataBowling\KataBowling\obj\Debug\netcoreapp3.1\KataBowling.pdb
+C:\Users\aksh0\OneDrive\デスクトップ\KataBowling\KataBowling\obj\Debug\netcoreapp3.1\KataBowling.genruntimeconfig.cache
